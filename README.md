@@ -25,4 +25,4 @@
 <a href="https://twitter.com/heyssr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shivangi-singh-604aa4226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p></div>
-[![@Shivangi's Holopin board](https://holopin.me/shivangi17)](https://holopin.io/@shivangi17)
+
