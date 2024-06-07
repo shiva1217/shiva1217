@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivangi Singh </h1>
+<h1 align="center">Hi <img src="./images/Hi.gif" width="30px" height="30px" style="max-width:100%;">, I'm Shivangi Singh </h1>
 <h3 align="center">I am 2nd year student at National Institute of Technology Patna. Currently ,pursuing my B.Tech in Electrical Engineering. I am interested in Web dev , DSA and Graphic Designing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva1217&color=brightgreen&style=flat-square&label=PROFILE+VIEWS" alt="shiva1217" /> </p>
