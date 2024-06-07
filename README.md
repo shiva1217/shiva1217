@@ -63,6 +63,11 @@
 |---|---|---|
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiva1217&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com?user=shiva1217&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiva1217&theme=gruvbox)|
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiva1217&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiva1217&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiva1217&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiva1217&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiva1217&theme=onedark&utcOffset=8)
 ### :zap: GitHub Badges :name_badge:
 <img src="./images/Line.gif">
 
