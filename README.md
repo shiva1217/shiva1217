@@ -59,6 +59,10 @@
   <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiva1217&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="shiva1217" />
 </p>
 
+|Stats <img src='.github/workflows/cartoon1.gif' height=20/>|Streak <img src='.github/workflows/cartoon1.gif' height=20/>|Languages <img src='.github/workflows/cartoon1.gif' height=20/>
+|---|---|---|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiva1217&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com?user=shiva1217&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiva1217&theme=gruvbox)|
+
 ### :zap: GitHub Badges :name_badge:
 <img src="./images/Line.gif">
 
