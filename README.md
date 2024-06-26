@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="220" />
   
-<a href='https://github.com/samadpls/Programing-Gifs'><img align='right' src='https://programming-gifs.cyclic.app/' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+<a href='https://github.com/samadpls/Programing-Gifs'><img align='right' src='https://programming-gifs.cyclic.app/' widht=100 height=300 ></a>
 
  <h3>🚀 About Me </h3>
  
@@ -71,7 +71,8 @@
 ### :zap: GitHub Badges :name_badge:
 <img src="./images/Line.gif">
 
-[![@nirban's Holopin board](https://holopin.io/api/user/board?user=shivangi17)](https://holopin.io/@shivangi17)
+[![An image of @shiva1217's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shiva1217)](https://holopin.io/@shiva1217)
+
 
 ### :zap: GitHub Trophies :trophy:
 <img src="./images/Line.gif">
